@@ -1,5 +1,6 @@
 const header = document.querySelector('header')
 
+// Creates a header with logo, title, and home button
   const headerContainer = document.createElement('div')
   headerContainer.className = 'header-container'
 

@@ -1,3 +1,4 @@
+// Sample event data about all the Rhode Island events, including id, name, title, date, time, location, image URL, summary, description, category, price, organizer, venue, and URL for more info. This data is used by the server to serve API responses and dynamic event pages.
 const events = [
   {
     id: 1,
